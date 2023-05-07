@@ -46,10 +46,10 @@ h2 {
   /* pagination */
   .pagination {
     list-style-type: none;
-    float: right;
+    float: left;
     margin: 10px 0;
-    margin-right: 400px;
-    /* margin-top: 0px; */
+    margin-top: 20px;
+    margin-left: 2px;
   }
   .pagination-item {
     display: inline-block;

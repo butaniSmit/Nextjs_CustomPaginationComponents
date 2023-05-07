@@ -108,8 +108,7 @@ const Pagination = ({
             })}
           </select>
         </div>
-      </div>
-
+      
       <ul className="pagination">
         <li className="pagination-item">
           <button
@@ -149,6 +148,7 @@ const Pagination = ({
           </button>
         </li>
       </ul>
+      </div>
     </>
   );
 };
